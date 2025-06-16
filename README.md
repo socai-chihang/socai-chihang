@@ -1,3 +1,5 @@
+![Raymond Lam GitHub Banner](./raymond_lam_banner.png)
+
 # 👋 Hi, I'm Chi Hang
 
 Aspiring **cybersecurity analyst** with a background in Python, cloud systems, and AI for security. I'm focused on **SOC operations**, **threat detection**, and **automating security workflows** using tools like Microsoft Sentinel, KQL, and Python scripting.
