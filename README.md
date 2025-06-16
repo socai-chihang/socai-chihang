@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Chi Hang 👋
 
-<!--
-**socai-chihang/socai-chihang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cybersecurity analyst focused on blue team, SOC operations, and cloud security.  
+Building a hands-on lab with Microsoft Azure, Sentinel, and Python automation.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Projects
+- [SOC-Home-Lab-Azure](./SOC-Home-Lab-Azure) – Azure-based SOC lab with Microsoft Sentinel
+- [THM-Writeups](./THM-Writeups) – TryHackMe Security Analyst Level 1 walkthroughs
+- [Python-Security-Scripts](./Python-Security-Scripts) – Python for log parsing and automation
+- [AI-for-Cybersecurity](./AI-for-Cybersecurity) – Concepts and code from my AI + threat detection research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Studying:
+- CompTIA Security+
+- CySA+
+- Microsoft SC-200 (Sentinel)
+- KQL, Linux, and Threat Hunting
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/raymond-chihang-lam/)  
