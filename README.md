@@ -1,4 +1,4 @@
-![Raymond Lam GitHub Banner](./raymond_lam_banner.png)
+![Raymond Lam GitHub Banner](./assets/raymond_lam_banner.png)
 
 # 👋 Hi, I'm Chi Hang
 
