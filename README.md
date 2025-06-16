@@ -1,18 +1,30 @@
-# Hi, I'm Chi Hang 👋
+# 👋 Hi, I'm Chi Hang
 
-Aspiring cybersecurity analyst focused on blue team, SOC operations, and cloud security.  
-Building a hands-on lab with Microsoft Azure, Sentinel, and Python automation.
+Aspiring **cybersecurity analyst** with a background in Python, cloud systems, and AI for security. I'm focused on **SOC operations**, **threat detection**, and **automating security workflows** using tools like Microsoft Sentinel, KQL, and Python scripting.
 
-## 🔐 Cybersecurity Projects
-- [SOC-Home-Lab-Azure](./SOC-Home-Lab-Azure) – Azure-based SOC lab with Microsoft Sentinel
-- [THM-Writeups](./THM-Writeups) – TryHackMe Security Analyst Level 1 walkthroughs
-- [Python-Security-Scripts](./Python-Security-Scripts) – Python for log parsing and automation
-- [AI-for-Cybersecurity](./AI-for-Cybersecurity) – Concepts and code from my AI + threat detection research
+🔐 Currently building a **hands-on SOC home lab** using Microsoft Azure, and learning through **TryHackMe**, **CompTIA**, and **Microsoft SC-200**.
 
-## 🧠 Currently Studying:
-- CompTIA Security+
-- CySA+
-- Microsoft SC-200 (Sentinel)
-- KQL, Linux, and Threat Hunting
+---
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/raymond-chihang-lam/)  
+## 🛠️ Key Skills
+- **Cybersecurity Tools:** Microsoft Sentinel, Azure, KQL, SIEM
+- **Programming:** Python (log parsing, automation)
+- **OS & Infra:** Linux, Windows Server, Networking basics
+- **Certs in Progress:** Security+, CySA+, SC-200
+- **AI + Security:** Research project on AI-driven incident response
+
+---
+
+## 📂 Featured Repositories
+
+| Project | Description |
+|--------|-------------|
+| [SOC-Home-Lab-Azure](https://github.com/socai-chihang/SOC-Home-Lab-Azure) | Azure-based SOC lab with Sentinel, simulated threats, and detection rules |
+| [THM-Writeups](https://github.com/socai-chihang/THM-Writeups) | TryHackMe walkthroughs (Security Analyst Level 1) |
+| [Python-Security-Scripts](https://github.com/socai-chihang/Python-Security-Scripts) | Python scripts for security automation and log analysis |
+| [AI-for-Cybersecurity](https://github.com/socai-chihang/AI-for-Cybersecurity) | Summer research project on using AI for threat response |
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/raymond-chihang-lam) • [GitHub](https://github.com/socai-chihang)
